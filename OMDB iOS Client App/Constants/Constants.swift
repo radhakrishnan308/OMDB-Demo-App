@@ -10,7 +10,7 @@ import UIKit
 
 
 struct Keys {
-    static let APIKey = "eeefc96f"
+    static let APIKey = "[KEY]"
 }
 
 struct ConstantStrings {
